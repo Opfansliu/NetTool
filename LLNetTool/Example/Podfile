@@ -1,0 +1,20 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'LLNetTool_Example' do
+  pod 'LLNetTool', :path => '../'
+  pod 'RxSwift', '6.5.0'
+  pod 'RxCocoa', '6.5.0'
+  pod 'Moya', '~> 15.0'
+  pod 'SwiftyJSON', '5.0.1'
+  pod 'AlamofireImage'
+  pod 'HandyJSON'
+  pod 'AFNetworking'
+
+  target 'LLNetTool_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2747FEAE-321B-4DFF-B3A7-898C0F004B48"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5494FC8D-4506-4459-AEA9-A4515A173581"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../LLNetTool/Classes/NetTableFooterV.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "configUI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C0C117F-03B0-49FF-B3EE-EDB5528FB063"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../LLNetTool/Classes/NetTableFooterV.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "configUI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "61BB0741-F8DF-46C1-941A-A4B7CEC96EC5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../LLNetTool/Classes/LLNetToolHelp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "panGestureClick(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "61BB0741-F8DF-46C1-941A-A4B7CEC96EC5 - 1a38803f5139db91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LLNetTool.LLNetToolHelp.tapGestureClick() -&gt; ()"
+                  moduleName = "LLNetTool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gaoji/NetTool/LLNetTool/LLNetTool/Classes/LLNetToolHelp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "71">
+               </Location>
+               <Location
+                  uuid = "61BB0741-F8DF-46C1-941A-A4B7CEC96EC5 - d11ab41a74f9aaa8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LLNetTool.LLNetToolHelp.panGestureClick(__C.UIPanGestureRecognizer) -&gt; ()"
+                  moduleName = "LLNetTool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gaoji/NetTool/LLNetTool/LLNetTool/Classes/LLNetToolHelp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "381">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A2E2637-65EA-4AAB-A497-05051A893978"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../LLNetTool/Classes/LLNetToolHelp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "showTool(show:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2A2E2637-65EA-4AAB-A497-05051A893978 - 676b9494698da0c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LLNetTool.LLNetToolHelp.showTool(show: Swift.Bool) -&gt; ()"
+                  moduleName = "LLNetTool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gaoji/NetTool/LLNetTool/LLNetTool/Classes/LLNetToolHelp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "900">
+               </Location>
+               <Location
+                  uuid = "2A2E2637-65EA-4AAB-A497-05051A893978 - 676b9494698da082"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LLNetTool.LLNetToolHelp.showTool(show: Swift.Bool) -&gt; ()"
+                  moduleName = "LLNetTool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gaoji/NetTool/LLNetTool/LLNetTool/Classes/LLNetToolHelp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "1218">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
